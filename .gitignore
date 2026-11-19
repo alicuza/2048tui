@@ -1,0 +1,4 @@
+nctest
+*.out
+*.sw?
+tags
